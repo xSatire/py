@@ -3,29 +3,6 @@
 
 Following is a schedule to learn data science step by step considering **4 hours** of dedicated, focused study every single day. This program is perfect for beginners with no knowledge of data science and programming.
 
-### Week 1 and 2: Excel and Statistics
-
-* Excel 
-	- Google templates gallery for personal finance etc : https://docs.google.com/spreadsheets/u/0/?ftv=1
-	- Budget planner: https://www.vertex42.com/ExcelTemplates/budgets.html
-	- Chandoo's youtube channel: https://www.youtube.com/channel/UC8uU_wruBMHeeRma49dtZKA
-	- Chandoo's website:  https://chandoo.org/
-
-* Statistics 
-	- Khan academy: https://www.khanacademy.org/math/statistics-probability
-	- Khan academy youtube: https://www.youtube.com/playlist?list=PL1328115D3D8A2566
-	- Statistics by Marin : https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa
-	- Statquest youtube channel: https://www.youtube.com/user/joshstarmer
-
-### Week 3 and 4: Python
-
-* Python
-        - My Python course that is 5X better than the free playlists: https://codebasics.io/courses/python-for-beginner-and-intermediate-learners 
-	- Codebasics python tutorials (first 16) - https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
-	- Codebasics python HINDI tutorials (first 16)- https://www.youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO
-	- Make sure to work on exercises
-* R 
-  - Marin's lectures: https://www.youtube.com/playlist?list=PLqzoL9-eJTNBlVXxWvJkq0dtVut2sICUW
   
 ### Week 5, 6, 7, 8: Numpy, Pandas, Data Visualization Libraries  
 
